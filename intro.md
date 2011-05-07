@@ -2,8 +2,8 @@
 <LINK REL=StyleSheet HREF="styles.css" TYPE="text/css">
 <img src="img/railsbridge_logo.png">
 # Ruby on Rails Workshop
-### October 5th & 6th, 2010
-#### hashtag #mountainrb
+### May 6th & 7th, 2011
+#### hashtag #railsbridge
 
 !SLIDE
 
@@ -21,22 +21,15 @@
 
 !SLIDE centereverything
 <img src="img/pivotal_labs_logo.png" width="200" />&nbsp;&nbsp;
-<img src="img/mountainrb.jpg" width="300"/>&nbsp;&nbsp;
 <img src="img/blazing_cloud_logo.png" width="200"/>&nbsp;&nbsp;
 
 !SLIDE
 
 # Why are we here?
-* www.bouldercountysafehouse.org
-* www.bouldershelter.org
-* zbelieve.org
-* www.kempe.org
-* www.bcap.org
-
-!SLIDE
-
-# Why are we here?
-* Ruby on Rails!
+* Learn to program for the first time
+* Transition from another language
+* Work better with engineers by understanding what they do
+* Supplement awesome frontend skills with awesome backend skills
 
 !SLIDE
 
@@ -91,18 +84,15 @@
 !SLIDE
 
 ## Ruby: programming language
+* General purpose; you can use it for math, to generate music, to make charts, to scrape web pages
 * Object oriented
-* General purpose
 
 !SLIDE
 
 ## Rails: web application framework
-* Database agnostic
-* Built using the Ruby Language
-* History
-  * 37signals 
-  * 2004 - first released as open source
-  * 2007 - shipped with Mac OS 10.5 "Leopard"
+* Specialized piece of code for building websites
+* Written in Ruby
+* Open source
 
 !SLIDE
 ## The Rails Philosophy
@@ -142,7 +132,7 @@
 !SLIDE
 ## Materials
 * slides: http://railsbridge.github.com/workshop
-* http://wiki.devchix.com/index.php?title=Rails_3_Curriculum
+* http://wiki.devchix.com/index.php?title=Rails\_3\_Curriculum
 
 !SLIDE
 ## Today's project
@@ -150,12 +140,14 @@
 
 !SLIDE 
 ## Schedule
-* 9:00-9:30 Sign in, get coffee
-* 9:30-10:00 Intro
-* 10:00-10:50 Session 1
-* 11:00-12:00 Session 2
-* 12:00-1:00 Lunch
-* 1:00-2:15 Session 3
-* 2:30-3:30 Session 4
-* 3:30-4:00 Wrap up & final questions
-* 5:00- conference reception at the Boulderado
+* 9:30 - 10:00 Coffee & Networking
+* 10:00 - 10:30 Opening presentation
+* 10:30 - 10:40 Class assignment
+* 10:40 - 11:30 Session 1
+* 11:40 - 12:30 Session 2
+* 12:30 - 1:30 Lunch
+* 1:40 - 2:30 Session 3
+* 2:40 - 3:30 Session 4
+* 3:40 - 4:10 Closing Presentation
+* 4:10 - 4:30 Cleanup
+* 4:30 - 6:30 Afterparty at Thirsty Bear
